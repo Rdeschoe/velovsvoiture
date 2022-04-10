@@ -1,0 +1,32 @@
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+m1111111w                w1111111m
+m1111111w        l       w1111111m
+m1111111w        l       w1111111m
+m1111121w        l       w1211111m
+m1111111w        l       w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111121w                w1211111m
+m1111111w                w1111111m
+m1111111w        l       w1111111m
+m1111111w        l       w1111111m
+m1111111w        l       w1111111m
+m1111111w        l       w1111111m
+m1111121w                w1211111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111121w        l       w1211111m
+m1111111w        l       w1111111m
+m1111111w        l       w1111111m
+m1111111w        l       w1111111m
+m1111111w                w1111111m
+m1111111w                w1111111m
+m1111121w                w1211111m
+m1111111w                w1111111m
+m1111111w        p       w1111111m
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
